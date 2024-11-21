@@ -10,6 +10,9 @@ The esp8266 acted as the bridge to an iot service called TUYA Smart.
 
 All parameters for the AC controller can be easily changed through this app. This device was designed for reliability and long uptimes
 
+### Note
+All developed core libraries required to compile this project will be found in the Core branch
+ 
 ## App Dev Photo
 On-Off intervals are set using the On-Off Interval sliders.\
 The CountDown timer shows the remaining time before the next Interval

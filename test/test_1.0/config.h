@@ -11,7 +11,7 @@
 /////////// TUYA Setup //////////
 /////////////////////////////////
 
-#define TUYA_PID "6o1dxveugdesqpdd" // << This can be found in your TUYA account
+#define TUYA_PID "*****" // << This can be found in your TUYA account
 #define TUYA_MCU_Version "1.0.0"    // << This field does not really matter. It can be a useful tool to keep track of revisions
 
 #define TUYA_ModuleResetPin 7 // << configure pin number for Arduino to reset the TUYA module in the case of mis-communication or module error

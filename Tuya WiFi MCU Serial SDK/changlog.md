@@ -1,3 +1,4 @@
+Amir Gorkovchenko
 v2.0.0
 changes:
   - implement method to check heartbeats if module is alive and working
